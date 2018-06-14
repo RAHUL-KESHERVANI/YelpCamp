@@ -1,0 +1,24 @@
+/*body{
+	background-color: red;
+}
+*/
+.img-fluid{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.figure-caption{
+	padding: 0px;
+}
+
+#jel{
+	display: inline;
+}
+
+#comment_row{
+	margin-top: 10px; 
+}
+
+#margin{
+	margin-bottom: 35px;
+}

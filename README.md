@@ -3,17 +3,17 @@ Udemy WebBootCamp Project(Done during the said course)
 
 
 
-HOW TO RUN:
-Download the folder
+****HOW TO RUN:
+**Download the folder
 Go to the cloned folder
 If you don't, install node
 Run "npm install"
 Then run "node app.js"
 go to //localhost:2000
-
+**
 A link to server where this site is deployed:
 https://protected-coast-57550.herokuapp.com/
-
+**
 
 THE STEPS IN WHICH THE SITE IS DEVELOPED
 ##Initial Setup
